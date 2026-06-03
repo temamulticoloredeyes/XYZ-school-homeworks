@@ -1,0 +1,35 @@
+# Visual Studio cache
+.vs/
+**/.vs/
+
+# Build folders
+x64/
+x86/
+Debug/
+Release/
+**/x64/
+**/x86/
+**/Debug/
+**/Release/
+
+# Build files
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+*.tlog
+*.idb
+*.ipch
+*.recipe
+
+# Visual Studio user files
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Copilot / indexes
+CopilotIndices/
+FileContentIndex/
+copilot-chat/
