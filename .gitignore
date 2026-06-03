@@ -12,24 +12,38 @@ Release/
 **/Debug/
 **/Release/
 
-# Build files
+# Build artifacts
 *.obj
+*.exe
 *.pdb
 *.ilk
-*.exe
+*.idb
+*.iobj
+*.ipdb
 *.log
 *.tlog
-*.idb
-*.ipch
+*.lastbuildstate
 *.recipe
 
-# Visual Studio user files
+# Visual Studio user/local files
 *.user
 *.suo
+*.rsuser
+*.sln.docstates
 *.VC.db
 *.VC.opendb
+*.db
+*.opendb
+
+# IntelliSense / precompiled
+*.ipch
+ipch/
 
 # Copilot / indexes
 CopilotIndices/
 FileContentIndex/
 copilot-chat/
+
+# OS junk
+.DS_Store
+Thumbs.db
